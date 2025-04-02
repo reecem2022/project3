@@ -1,0 +1,9 @@
+# https://pypi.org/project/flask
+Flask==3.0.2
+
+# https://pypi.org/project/gunicorn
+gunicorn==20.1.0
+
+google-generativeai
+google-cloud-storage
+google-cloud-datastore
